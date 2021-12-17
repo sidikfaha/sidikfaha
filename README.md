@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Colisone web app](https://colisone.fanemtech.cf/)
-- 🌱 I’m currently learning **Flutter programming**
-- 💬 Ask me about **Web development**
+- 🔭 I’m currently working on [Kernel Immo](https://kimmo.cm/)
+- 🌱 I’m currently learning **K8s**
+- 💬 Ask me about **DevOps**
 - 📫 How to reach me: [Twitter](https://twitter.com/sidikfaha) and [Linkedin](https://linkedin.com/in/fahasidik)
 
 ### Coding activity (last 7 days)
