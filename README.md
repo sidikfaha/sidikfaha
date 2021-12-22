@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me: [Twitter](https://twitter.com/sidikfaha) and [Linkedin](https://linkedin.com/in/fahasidik)
 
-### Coding activity (last 7 days)
-
-![Coding activity](https://wakatime.com/share/@32d82b78-7182-435a-bb54-45fb5d27879e/27ad8687-d324-45c5-ba38-b3eec73ca865.svg)
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidikfaha&show_icons=true)
