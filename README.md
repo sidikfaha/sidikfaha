@@ -11,5 +11,9 @@ Here are some ideas to get you started:
 ## Badges
 [![wakatime](https://wakatime.com/badge/user/32d82b78-7182-435a-bb54-45fb5d27879e.svg)](https://wakatime.com/@sidikfaha)
 
+![Badges](https://github-profile-trophy.vercel.app/?username=sidikfaha)
+
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidikfaha&show_icons=true)
+
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sidikfaha)
