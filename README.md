@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidikfaha&show_icons=true) 
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidikfaha&show-other-skills=true"
+/>
